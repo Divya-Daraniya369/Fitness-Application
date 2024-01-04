@@ -1,4 +1,4 @@
-package manav.selenium.testing;
+package divya.selenium.testing;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
