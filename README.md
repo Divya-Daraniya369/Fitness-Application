@@ -11,12 +11,12 @@ An App that aids in Health Maintenance
 - [HomePage](https://github.com/Divya-Daraniya369/Fitness-Application/blob/main/GUI_1.png)
 - [User_Choice](https://github.com/Divya-Daraniya369/Fitness-Application/blob/main/GUI_2.png)
 
-## Exercise A for Advanced Software Engineering
+
 
 ### General
 A Fitness Application is found in this repository. That user can assess their BMR(Basal Metabolic Rate), BMI(Body Mass Index), and track their calories depending on activity levels, as well as a wide range of dietary ingredients such as protein, carbs, fat, sugar, and vitamins. Furthermore, this software makes their lives easier, particularly in terms of health.
 
-## Exercise B for Advanced Software Engineering
+
 
 ### 1 Git
 
