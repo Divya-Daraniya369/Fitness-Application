@@ -42,6 +42,19 @@ I created a [problem space](https://github.com/Manav-56/FitnessApp/blob/main/Doc
 
 I utilized SonarQube, which automatically analyzes the submitted source code based on various criteria. SonarQube is an open-source tool for continuous code quality inspection that does automated inspections with static code analysis to find bugs and code smells, as well as many other Matrices.
 
+ ###### The Following Metrics shows overall analysis of code by SonarCloud :
+
+- Maintainability Rating : [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Security Rating : [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Bugs : [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Vulnerabilities :[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Duplicated Lines (%) :[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Reliability Rating :[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Lines of Code :[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Code smells :[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+- Technical Debt [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Manav-56_FitnessApp&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Manav-56_FitnessApp)
+
+Quick overview of SonarCloud analysis can be found [here](https://sonarcloud.io/summary/overall?id=Manav-56_FitnessApp).
 
 
 ### 5 Clean Code Development
@@ -135,3 +148,9 @@ I created python code to compute BMI (Body Mass Index). It is not part of my pro
 
 - ### Closures / anonymous functions: 
     Closures are functions that continue to have access to variables defined in the scope in which they were defined after the scope has finished. Anonymous functions, also known as lambda expressions, lack a specified identifier and are frequently utilized as parameters to higher-order functions. [See here](https://github.com/Manav-56/FitnessApp/blob/main/files/FP.py#L38)
+
+
+
+
+
+
